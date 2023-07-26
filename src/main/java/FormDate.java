@@ -1,6 +1,8 @@
+import java.util.Date;
+
 public class FormDate {
-    public String day;
-    public String month;
-    public String year;
+    public int day;
+    public int month;
+    public int year;
 
 }
